@@ -13,3 +13,5 @@ def multiple(num1, num2):
 
 def print_hello():
     print("Hello everyone!")
+
+print_hello()
