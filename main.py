@@ -7,3 +7,6 @@ def always_returns_true():
 
 def test_always_returns_true():
     assert always_returns_true()
+
+def multiple(num1, num2):
+    return num1 * num2
