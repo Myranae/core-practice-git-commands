@@ -17,3 +17,4 @@ def print_hello():
 
 def sum(a, b):
     return a + b
+print_hello()
