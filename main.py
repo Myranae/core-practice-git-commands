@@ -13,3 +13,7 @@ def multiple(num1, num2):
 
 def print_hello():
     print("Hello everyone!")
+
+
+def sum(a, b):
+    return a + b
